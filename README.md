@@ -8,7 +8,7 @@ Code model optimized: AlphabetSoupCharity_Optimization.ipynb
 
 Output HDF5 for AlphabetSoupCharity_Optimization.ipynb :AlphabetSoupCharity_Optimization.h5
 
-Report: Challenge_Module21_Report.md
+Report Neural Network Model : Challenge_Module21_Report.md
 
 
 
